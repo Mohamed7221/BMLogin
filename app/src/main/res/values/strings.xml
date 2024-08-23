@@ -1,0 +1,8 @@
+<resources>
+    <string name="EN">العربيه</string>
+    <string name="Username">اسم المستخدم</string>
+    <string name="Password">كلمة المرور</string>
+    <string name="Login">تسجيل الدخول</string>
+
+
+</resources>
